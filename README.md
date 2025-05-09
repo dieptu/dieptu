@@ -52,7 +52,7 @@ Here are a few of my notable projects:
 ---->
 
 ## 🛠 Tech Stack
-- Languages: Python, Java, C#, Kotlin
+- Languages: Python, Java, C#, Kotlin, Linux, SQL
 - Frameworks: MAUI, React, JetpackCompose
 - Tools: Git, Docker, Figma, Canva, Framer, VSCode, Android Studio, Matlab, Unity(started learning)
 
